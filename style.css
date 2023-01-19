@@ -26,7 +26,7 @@ body{
 
 .result{
     border: 10px solid red;
-    font-family:digital,'DS-Digital','Courier New', Courier, monospace; 
+    font-family:digital,'DS-Digital',sans-serif; 
     display: flex;
     flex-direction: column;
     align-items: flex-end;
